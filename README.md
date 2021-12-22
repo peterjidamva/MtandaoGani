@@ -1,14 +1,9 @@
 A flutter app that let you determine that "A certain number " belongs to "MTANDAO FLANI" 
-    Working towars improving the User Interface of the APP
-  
 
-![Screenshot_1640179394](https://user-images.githubusercontent.com/64710848/147113008-165f65c7-2a5e-429f-9c42-fa0fd643d68b.png)
+Working towars improving the User Interface of the APP
 
 
-![Screenshot_1640179405](https://user-images.githubusercontent.com/64710848/147113014-8c108b45-7e5c-4ec9-94cd-003fecbfefe9.png)
+![Screenshot from 2021-12-22 18-07-48](https://user-images.githubusercontent.com/64710848/147113383-af355718-e88b-4dd2-9012-5c2bc0c12213.png)
 
 
-![Screenshot_1640179416](https://user-images.githubusercontent.com/64710848/147113017-a21ef718-6bf8-4e5a-a84c-e756b83f5305.png)
-
-
-![Screenshot_1640179420](https://user-images.githubusercontent.com/64710848/147113019-a4d602b1-c508-433f-8346-fbc770535fec.png)
+![Screenshot from 2021-12-22 18-08-14](https://user-images.githubusercontent.com/64710848/147113387-a69d6342-a926-44d0-aaef-939725b26c10.png)
